@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanantodnp&label=Profile%20views&color=0e75b6&style=flat" alt="hanantodnp" /> </p>
 
+![](https://github-readme-stats.vercel.app/api?username=hanantodnp&theme=radical&hide)
+
 - 📫 How to reach me **hanantoputra.mm@gmail.com**
 
 <h2 align="center">Connect with me</h2>
