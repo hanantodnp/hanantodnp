@@ -1,12 +1,15 @@
 <!-- Bio -->
 <h1 align="center">👋 Hi, I'm Hananto! :D</h1>
   <div align="center">
-    I am an Information Technology undergraduate student at Yogyakarta State University. <br />
-    Contact me,
+    An Information Technology undergraduate student at Yogyakarta State University with a strong passion for solving real-world problems through code. I enjoy exploring new technologies and turning ideas into reality. Currently focusing on Web Development, Mobile App Development, Video Editing, and Design. Let's connect and create something amazing together! 
+    <br />
+    <br />
+    </div>
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=hanantodnp&label=Profile%20views&color=0e75b6&style=flat" alt="hanantodnp" />  
+<br />📫 You can reach me at :
     <a href="mailto:hanantoputra.mm@gmail.com"> hanantoputra.mm@gmail.com </a>
-  </div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanantodnp&label=Profile%20views&color=0e75b6&style=flat" alt="hanantodnp" /> </p>
+</div>
 
 
 <h2 align="center">Connect with me</h2>
