@@ -7,6 +7,8 @@
   </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanantodnp&label=Profile%20views&color=0e75b6&style=flat" alt="hanantodnp" /> </p>
+  
+<img width="350" src="https://github-readme-stats.vercel.app/api?username=hanantodnp&theme=material-palenight" />
 
 <h2 align="center">Connect with me</h2>
   <div align="center"> 
@@ -56,9 +58,9 @@
   </p>
 
 <br />
-  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanantodnp&show_icons=true&locale=en&layout=compact" alt="hanantodnp" /></p>
+
+<div align="center">
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanantodnp&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="hanantodnp" /><br />
+</div>
 
 <br />
-
-![](https://github-readme-stats.vercel.app/api?username=hanantodnp&theme=radical&hide)
