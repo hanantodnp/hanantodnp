@@ -1,7 +1,7 @@
 <!-- Bio -->
 <h1 align="center">👋 Hi, I'm Hananto! :D</h1>
   <div align="center">
-    Hi there 👋 I’m an Information Technology undergraduate student at Yogyakarta State University who loves exploring new technologies and turning ideas into reality. I’m currently focusing on Web Development, Mobile App Development, Video Editing, and Design. I enjoy learning, collaborating, and building impactful projects — from sleek websites to creative multimedia content. Let’s connect and create something amazing together! 
+    I’m an Information Technology undergraduate student at Yogyakarta State University who loves exploring new technologies and turning ideas into reality. I’m currently focusing on Web Development, Mobile App Development, Video Editing, and Design. I enjoy learning, collaborating, and building impactful projects — from sleek websites to creative multimedia content. Let’s connect and create something amazing together! 
     <br />
     <br />
     </div>
