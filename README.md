@@ -70,7 +70,3 @@
 </p>
 
 <br />
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=hanan" alt="Spotify recently played"  />
-</div>
